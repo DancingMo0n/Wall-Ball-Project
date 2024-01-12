@@ -1,0 +1,14 @@
+body {
+	font-family: 'DM Serif Display', serif;
+	line-height: 1.5;
+	background-color: #fae1dd;
+	color: #dedbd2;
+	margin: 0;
+
+}
+
+
+
+canvas {
+	vertical-align: bottom;
+}
